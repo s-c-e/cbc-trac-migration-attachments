@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+
+  <head>
+    <title>
+      inf.zip on Ticket #186 – Attachment
+     – COIN-OR Branch-and-Cut MIP Solver
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+        <link rel="search" href="/Cbc/search" />
+        <link rel="help" href="/Cbc/wiki/TracGuide" />
+        <link rel="alternate" href="/Cbc/raw-attachment/ticket/186/inf.zip" type="application/zip; charset=iso-8859-15" title="Original Format" />
+        <link rel="up" href="/Cbc/ticket/186" title="Ticket #186" />
+        <link rel="start" href="/Cbc/wiki" />
+        <link rel="stylesheet" href="/Cbc/chrome/common/css/trac.css" type="text/css" /><link rel="stylesheet" href="/Cbc/chrome/common/css/code.css" type="text/css" />
+        <link rel="shortcut icon" href="/Cbc/chrome/common/trac.ico" type="image/x-icon" />
+        <link rel="icon" href="/Cbc/chrome/common/trac.ico" type="image/x-icon" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/Cbc/search/opensearch" title="Search COIN-OR Branch-and-Cut MIP Solver" />
+      <script type="text/javascript" charset="utf-8" src="/Cbc/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/Cbc/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/Cbc/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/Cbc/chrome/common/js/search.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+      <script type="text/javascript" src="/Cbc/chrome/common/js/folding.js"></script>
+      <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          $('#preview table.code').enableCollapsibleColumns($('#preview table.code thead th.content'));
+        });
+      </script>
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <a id="logo" href="http://www.coin-or.org/"><img src="/Cbc/chrome/common/coin_banner.png" alt="COIN-OR" height="80" width="80" /></a>
+      </div>
+      <form id="search" action="/Cbc/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first">logged in as andrewwald</li><li><form action="/Cbc/logout" class="trac-logout" id="logout" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="7b820653bd44de6be74d8a52" /></div><div><button type="submit" name="logout">Logout</button></div></form></li><li><a href="/Cbc/wiki/TracGuide">Help/Guide</a></li><li><a href="/Cbc/about">About Trac</a></li><li class="last"><a href="/Cbc/prefs">Preferences</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first"><a href="/Cbc/wiki">Wiki</a></li><li><a href="/Cbc/timeline">Timeline</a></li><li><a href="/Cbc/roadmap">Roadmap</a></li><li><a href="/Cbc/browser">Browse Source</a></li><li><a href="/Cbc/report">View Tickets</a></li><li><a href="/Cbc/newticket">New Ticket</a></li><li class="last"><a href="/Cbc/search">Search</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="last first"><a href="/Cbc/ticket/186">Back to Ticket #186</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="attachment">
+        <h1><a href="/Cbc/ticket/186">Ticket #186</a>: inf.zip</h1>
+        <table id="info" summary="Description">
+          <tr>
+            <th scope="col">File inf.zip, <span title="8156777 bytes">7.8 MB</span> (added by dindy, <a class="timeline" href="/Cbc/timeline?from=2018-09-05T04%3A04%3A30-04%3A00&amp;precision=second" title="See timeline at Sep 5, 2018 4:04:30 AM">6 weeks ago</a>)</th>
+          </tr>
+          <tr>
+            <td class="message searchable">
+              <p>
+Sample problem
+</p>
+
+            </td>
+          </tr>
+        </table>
+        <div id="preview" class="searchable">
+          
+    <p>
+        <strong>HTML preview not available</strong>, since the file size exceeds 2097152 bytes.
+      Try <a href="/Cbc/raw-attachment/ticket/186/inf.zip">downloading</a> the file instead.
+    </p>
+
+        </div>
+    </div>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="last first">
+          <a rel="nofollow" href="/Cbc/raw-attachment/ticket/186/inf.zip">Original Format</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="http://trac.edgewall.org/"><img src="/Cbc/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/Cbc/about"><strong>Trac 1.0.11</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+  </body>
+</html>
